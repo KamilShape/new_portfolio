@@ -21,7 +21,14 @@ const projects = [{
         link: 'https://kamilshape.github.io/shopping_cart/#/',
         ghlink: 'https://github.com/KamilShape/shopping_cart',
         image: 'shoppingcart.png'
+    },
+    {
+        name: 'Rick and Morty app',
+        link: 'https://kl-rick-and-morty.netlify.app/#/',
+        ghlink: 'https://github.com/KamilShape/rick_morty_app',
+        image: 'rickmortyapp.jpg'
     }
+
 
 ]
 
